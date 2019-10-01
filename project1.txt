@@ -2,9 +2,9 @@
 int main()
 {
 int a,b,sum;
-printf("\nenter number 1 - ");
+printf("\nenter first number- ");
 scanf("%d",a);
-printf("\nenter number 2 - ");
+printf("\nenter secondnumber- ");
 scanf("%d",b);
 sum=a+b;
 printf("sum of added numbers = %d",sum);
